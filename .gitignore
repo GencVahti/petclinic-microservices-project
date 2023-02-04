@@ -23,3 +23,9 @@ generated/
 
 # second README.md
 README2.md
+
+###
+.terraform
+.terraform.terraform.lock
+terraform.tfstate
+initialpasswd.txt
