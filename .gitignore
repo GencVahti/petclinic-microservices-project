@@ -26,6 +26,6 @@ README2.md
 
 ###
 .terraform
-.terraform.terraform.lock
+.terraform.lock.hcl
 terraform.tfstate
 initialpasswd.txt
