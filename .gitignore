@@ -21,10 +21,20 @@ generated/
 .factorypath
 .project
 
+<<<<<<< HEAD
 
+=======
+# second README.md
+README2.md
+
+###
+>>>>>>> release
 .terraform
 .terraform.lock.hcl
 terraform.tfstate
 initialpasswd.txt
+<<<<<<< HEAD
 
 README2.md
+=======
+>>>>>>> release
