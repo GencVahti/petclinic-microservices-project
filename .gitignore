@@ -20,3 +20,11 @@ generated/
 #VS Code
 .factorypath
 .project
+
+
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+initialpasswd.txt
+
+README2.md
